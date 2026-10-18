@@ -2,9 +2,9 @@
 
 | Dato | Completa aquí |
 |---|---|
-| Aprendiz | (tu nombre completo) |
-| Ficha | (número de ficha) |
-| Cobertura de líneas alcanzada en `CarritoCompras` | (ej. 95 %) |
+| Aprendiz | (Eslid Ruben MArtinez Machado) |
+| Ficha | (3231666) |
+| Cobertura de líneas alcanzada en `CarritoCompras` | (ej. 96 %) |
 
 ## Contenido
 - `src/main/java/co/edu/notas/` — código de producción (`CalculadoraNotas`, `CarritoCompras`)
